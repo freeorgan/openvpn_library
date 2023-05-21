@@ -3,3 +3,6 @@
 /vpnLib/src/main/java/de/blinkt/openvpn/core/*.aidl
 /vpnLib/build/
 local.properties
+/build/
+/.idea/
+/.gradle/
